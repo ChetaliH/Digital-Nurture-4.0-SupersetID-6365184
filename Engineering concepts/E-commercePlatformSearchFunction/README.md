@@ -9,9 +9,9 @@ Average: O(n)
 Worst: O(n)
 
 Binary Search (sorted):
-- Best: O(1)
-- Average: O(log n)
-- Worst: O(log n)
+Best: O(1)
+Average: O(log n)
+Worst: O(log n)
 
 Output Screen Shot =>
 ![Project Folder](Search-output.png)
