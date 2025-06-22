@@ -1,12 +1,12 @@
 Big O Notation:
-- Describes algorithm complexity based on input size.
+Describes algorithm complexity based on input size.
 
 Search Time Complexities:
 
 Linear Search:
-- Best: O(1)
-- Average: O(n)
-- Worst: O(n)
+Best: O(1)
+Average: O(n)
+Worst: O(n)
 
 Binary Search (sorted):
 - Best: O(1)
@@ -14,8 +14,6 @@ Binary Search (sorted):
 - Worst: O(log n)
 
 Output Screen Shot =>
-<p align="center">
-  <img src="Search-output.png" width="600"/>
-</p>
+![Project Folder](Search-output.png)
 
 
